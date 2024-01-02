@@ -1,5 +1,5 @@
 # PewPew - Shooter Game
-#### Video Demo: <URL HERE>
+#### Video Demo: https://youtu.be/2j8OouPq0H8
 
 ## Description
 PewPew(for lack of better name) is a web game developed using canvas element and JavaScript.
